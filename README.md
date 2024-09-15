@@ -1,5 +1,9 @@
 [【Redux 入門】初学者でも理解できる Redux の仕組みを解説します！(Redux Toolkit を使用)](https://www.youtube.com/watch?v=KuRu5wOyY_c)
 
+
+https://github.com/user-attachments/assets/b6a3bbac-599d-42a2-b2d1-21673a5fa8d1
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
